@@ -1,0 +1,57 @@
+{
+ "variant": "v4_pre_add_l12",
+ "exp_name": "exp_v4_pre_add_l12",
+ "seeds": [
+  0,
+  1,
+  2
+ ],
+ "cfg": {
+  "input_size": 224,
+  "batch_size": 10,
+  "lr": 0.0001,
+  "epochs": 100,
+  "num_classes": 7,
+  "mean": [
+   0.485,
+   0.456,
+   0.406
+  ],
+  "std": [
+   0.229,
+   0.224,
+   0.225
+  ],
+  "num_workers": 2,
+  "optimizer": "Adam",
+  "split_seed": 42
+ },
+ "expected_params": 23522410,
+ "split_csv": "/kaggle/input/datasets/dinianjanip/xsdd-split/xsdd_split_seed42 (2).csv",
+ "split_md5": "d3b70353f676fb3acba5e1019563a34f",
+ "data_root": "/kaggle/input/datasets/sayelabualigah/x-sdd/X-DDD",
+ "class_names": [
+  "finishing roll printing",
+  "iron sheet ash",
+  "oxide scale of plate system",
+  "oxide scale of temperature system",
+  "red iron",
+  "slag inclusion",
+  "surface scratch"
+ ],
+ "protocol": "from scratch, tanpa augmentasi, tanpa early stopping, bobot epoch 100",
+ "libs": {
+  "python": "3.13.16",
+  "torch": "2.11.0+cu130",
+  "torchvision": "0.26.0+cu130",
+  "sklearn": "1.6.1",
+  "numpy": "2.1.3",
+  "pandas": "2.3.3"
+ },
+ "cuda": {
+  "torch_cuda": "13.0",
+  "cudnn": 92700,
+  "gpu": "Tesla T4"
+ },
+ "started_at": "2026-11-13T05:20:06"
+}

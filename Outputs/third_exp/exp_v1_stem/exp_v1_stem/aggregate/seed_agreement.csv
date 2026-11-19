@@ -1,0 +1,409 @@
+rel_path,y_true,y_pred_seed0,correct_seed0,y_pred_seed1,correct_seed1,y_pred_seed2,correct_seed2,n_correct,prop_correct,pred_consistent
+finishing roll printing/6002.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6008.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6009.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6014.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6015.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6018.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6021.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6022.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6035.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6038.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6049.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6050.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6051.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6053.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6055.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6058.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6059.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6060.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6064.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6072.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6073.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6075.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6081.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6084.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6088.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6089.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6090.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6092.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6093.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6100.png,0,0,1,0,1,5,0,2,0.6666666666666666,False
+finishing roll printing/6103.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6104.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6107.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6108.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6111.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6117.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6122.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6130.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6131.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6132.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6135.png,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6150.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6152.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6158.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6160.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6161.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6170.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6172.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6175.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6179.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6180.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6184.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6185.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6187.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6189.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6192.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6196.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6197.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6200.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6202.jpg,0,0,1,0,1,0,1,3,1.0,True
+finishing roll printing/6203.jpg,0,0,1,0,1,0,1,3,1.0,True
+iron sheet ash/3003.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3011.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3016.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3017.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3019.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3020.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3024.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3032.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3033.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3036.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3038.jpg,1,4,0,1,1,6,0,1,0.3333333333333333,False
+iron sheet ash/3040.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3044.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3052.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3055.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3056.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3059.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3067.jpg,1,5,0,1,1,5,0,1,0.3333333333333333,False
+iron sheet ash/3068.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3069.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3070.jpg,1,5,0,1,1,1,1,2,0.6666666666666666,False
+iron sheet ash/3071.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3073.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3075.jpg,1,1,1,1,1,5,0,2,0.6666666666666666,False
+iron sheet ash/3080.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3086.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3090.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3093.jpg,1,1,1,1,1,5,0,2,0.6666666666666666,False
+iron sheet ash/3094.jpg,1,1,1,1,1,5,0,2,0.6666666666666666,False
+iron sheet ash/3097.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3098.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3102.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3104.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3108.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3119.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3120.jpg,1,1,1,1,1,1,1,3,1.0,True
+iron sheet ash/3121.jpg,1,5,0,4,0,5,0,0,0.0,False
+oxide scale of plate system/5004.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5006.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5017.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5019.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5024.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5028.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5029.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5030.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5031.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5035.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5037.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5041.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5044.jpg,2,2,1,2,1,5,0,2,0.6666666666666666,False
+oxide scale of plate system/5046.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5049.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5053.jpg,2,5,0,2,1,5,0,1,0.3333333333333333,False
+oxide scale of plate system/5054.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5055.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of plate system/5061.jpg,2,2,1,2,1,2,1,3,1.0,True
+oxide scale of temperature system/7005.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7006.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7008.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7013.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7015.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7019.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7023.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7032.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7047.jpg,3,3,1,0,0,0,0,1,0.3333333333333333,False
+oxide scale of temperature system/7049.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7051.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7052.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7053.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7054.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7055.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7058.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7060.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7062.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7063.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7066.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7070.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7086.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7090.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7092.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7094.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7098.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7099.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7101.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7103.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7106.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7108.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7109.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7114.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7115.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7116.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7117.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7120.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7124.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7125.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7127.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7129.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7137.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7140.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7142.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7143.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7144.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7145.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7147.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7150.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7153.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7158.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7170.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7180.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7186.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7187.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7190.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7191.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7192.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7195.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7196.jpg,3,3,1,3,1,3,1,3,1.0,True
+oxide scale of temperature system/7200.jpg,3,3,1,3,1,3,1,3,1.0,True
+red iron/2001.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2005.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2007.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2008.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2009.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2012.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2014.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2019.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2020.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2028.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2029.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2035.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2039.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2041.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2042.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2044.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2046.jpg,4,4,1,4,1,2,0,2,0.6666666666666666,False
+red iron/2047.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2053.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2054.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2057.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2058.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2070.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2074.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2076.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2080.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2090.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2091.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2109.jpg,4,4,1,6,0,5,0,1,0.3333333333333333,False
+red iron/2117.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2122.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2126.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2132.jpg,4,4,1,6,0,2,0,1,0.3333333333333333,False
+red iron/2133.jpg,4,6,0,4,1,5,0,1,0.3333333333333333,False
+red iron/2134.jpg,4,4,1,4,1,5,0,2,0.6666666666666666,False
+red iron/2136.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2141.jpg,4,4,1,4,1,2,0,2,0.6666666666666666,False
+red iron/2143.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2144.jpg,4,4,1,4,1,5,0,2,0.6666666666666666,False
+red iron/2145.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2146.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2147.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2148.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2149.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2151.jpg,4,4,1,4,1,5,0,2,0.6666666666666666,False
+red iron/2156.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2160.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2163.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2164.jpg,4,4,1,4,1,2,0,2,0.6666666666666666,False
+red iron/2165.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2167.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2168.jpg,4,5,0,4,1,5,0,1,0.3333333333333333,False
+red iron/2170.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2173.jpg,4,4,1,4,1,5,0,2,0.6666666666666666,False
+red iron/2174.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2178.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2181.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2182.jpg,4,4,1,4,1,2,0,2,0.6666666666666666,False
+red iron/2186.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2190.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2191.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2192.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2194.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2201.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2202.jpg,4,4,1,4,1,5,0,2,0.6666666666666666,False
+red iron/2203.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2212.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2213.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2215.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2217.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2220.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2221.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2223.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2224.jpg,4,2,0,4,1,2,0,1,0.3333333333333333,False
+red iron/2227.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2228.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2229.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2230.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2233.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2235.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2239.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2240.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2242.jpg,4,5,0,4,1,4,1,2,0.6666666666666666,False
+red iron/2252.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2253.jpg,4,4,1,4,1,5,0,2,0.6666666666666666,False
+red iron/2259.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2272.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2275.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2283.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2289.jpg,4,4,1,4,1,5,0,2,0.6666666666666666,False
+red iron/2292.jpg,4,5,0,4,1,5,0,1,0.3333333333333333,False
+red iron/2301.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2303.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2305.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2312.jpg,4,4,1,4,1,5,0,2,0.6666666666666666,False
+red iron/2314.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2317.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2321.jpg,4,4,1,0,0,5,0,1,0.3333333333333333,False
+red iron/2325.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2327.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2331.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2333.jpg,4,4,1,4,1,1,0,2,0.6666666666666666,False
+red iron/2334.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2336.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2338.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2339.jpg,4,4,1,4,1,5,0,2,0.6666666666666666,False
+red iron/2341.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2342.jpg,4,4,1,4,1,5,0,2,0.6666666666666666,False
+red iron/2350.jpg,4,4,1,4,1,5,0,2,0.6666666666666666,False
+red iron/2357.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2358.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2360.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2366.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2370.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2379.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2386.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2388.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2392.jpg,4,4,1,4,1,4,1,3,1.0,True
+red iron/2394.jpg,4,4,1,4,1,5,0,2,0.6666666666666666,False
+slag inclusion/1001.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1005.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1009.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1011.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1013.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1014.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1017.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1023.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1030.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1032.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1035.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1038.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1039.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1040.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1042.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1049.jpg,5,1,0,1,0,1,0,0,0.0,True
+slag inclusion/1060.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1062.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1063.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1064.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1065.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1069.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1072.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1073.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1076.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1078.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1083.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1084.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1089.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1093.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1094.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1095.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1097.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1101.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1104.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1105.jpg,5,1,0,1,0,1,0,0,0.0,True
+slag inclusion/1117.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1120.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1123.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1125.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1130.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1132.jpg,5,5,1,1,0,5,1,2,0.6666666666666666,False
+slag inclusion/1137.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1143.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1146.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1150.jpg,5,2,0,5,1,2,0,1,0.3333333333333333,False
+slag inclusion/1152.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1153.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1154.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1162.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1163.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1165.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1166.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1168.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1172.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1178.jpg,5,4,0,5,1,5,1,2,0.6666666666666666,False
+slag inclusion/1184.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1188.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1196.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1199.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1202.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1203.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1204.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1205.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1207.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1214.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1217.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1225.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1226.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1231.jpg,5,5,1,5,1,5,1,3,1.0,True
+slag inclusion/1237.jpg,5,5,1,5,1,5,1,3,1.0,True
+surface scratch/4007.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4008.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4010.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4016.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4032.jpg,6,4,0,6,1,6,1,2,0.6666666666666666,False
+surface scratch/4034.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4035.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4037.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4046.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4050.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4051.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4054.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4055.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4057.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4059.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4065.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4067.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4068.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4072.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4078.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4087.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4088.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4092.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4093.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4096.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4097.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4101.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4103.jpg,6,6,1,6,1,5,0,2,0.6666666666666666,False
+surface scratch/4110.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4111.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4116.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4117.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4120.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4124.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4125.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4127.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4128.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4129.jpg,6,6,1,6,1,6,1,3,1.0,True
+surface scratch/4131.jpg,6,6,1,6,1,5,0,2,0.6666666666666666,False
+surface scratch/4132.jpg,6,6,1,5,0,6,1,2,0.6666666666666666,False

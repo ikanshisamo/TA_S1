@@ -1,0 +1,8 @@
+,pred_finishing roll printing,pred_iron sheet ash,pred_oxide scale of plate system,pred_oxide scale of temperature system,pred_red iron,pred_slag inclusion,pred_surface scratch
+true_finishing roll printing,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+true_iron sheet ash,0.036,0.9099,0.0,0.0,0.009,0.045,0.0
+true_oxide scale of plate system,0.0,0.0175,0.8947,0.0351,0.0,0.0526,0.0
+true_oxide scale of temperature system,0.0219,0.0,0.0,0.9781,0.0,0.0,0.0
+true_red iron,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+true_slag inclusion,0.0,0.0235,0.0141,0.0,0.0141,0.9437,0.0047
+true_surface scratch,0.0,0.0,0.0,0.0,0.0083,0.0083,0.9833

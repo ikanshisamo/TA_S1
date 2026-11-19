@@ -1,0 +1,74 @@
+{
+ "layer3.0.eca": {
+  "channels": 1024,
+  "mean": 0.5009676072473025,
+  "std_across_images_mean": 0.05717644469307333,
+  "min": 0.11838681250810623,
+  "max": 0.864887535572052,
+  "eta2_between_class_mean": 0.4047402843416959
+ },
+ "layer3.1.eca": {
+  "channels": 1024,
+  "mean": 0.5053456684741903,
+  "std_across_images_mean": 0.06080806108799603,
+  "min": 0.14123858511447906,
+  "max": 0.8664730191230774,
+  "eta2_between_class_mean": 0.4677363888884672
+ },
+ "layer3.2.eca": {
+  "channels": 1024,
+  "mean": 0.5078607637453174,
+  "std_across_images_mean": 0.046088598427621495,
+  "min": 0.2431831955909729,
+  "max": 0.7289186716079712,
+  "eta2_between_class_mean": 0.5063510949914115
+ },
+ "layer3.3.eca": {
+  "channels": 1024,
+  "mean": 0.5021567919508265,
+  "std_across_images_mean": 0.03545931236586584,
+  "min": 0.31757405400276184,
+  "max": 0.7119640707969666,
+  "eta2_between_class_mean": 0.5238821413669231
+ },
+ "layer3.4.eca": {
+  "channels": 1024,
+  "mean": 0.49970226979184745,
+  "std_across_images_mean": 0.06717749619045227,
+  "min": 0.13217994570732117,
+  "max": 0.8638116717338562,
+  "eta2_between_class_mean": 0.5702773742978468
+ },
+ "layer3.5.eca": {
+  "channels": 1024,
+  "mean": 0.5000104916693375,
+  "std_across_images_mean": 0.04863313801277933,
+  "min": 0.1870916783809662,
+  "max": 0.8039140701293945,
+  "eta2_between_class_mean": 0.550643853884527
+ },
+ "layer4.0.eca": {
+  "channels": 2048,
+  "mean": 0.4971012448016457,
+  "std_across_images_mean": 0.06628979704673449,
+  "min": 0.15342046320438385,
+  "max": 0.8563668131828308,
+  "eta2_between_class_mean": 0.6073012249392348
+ },
+ "layer4.1.eca": {
+  "channels": 2048,
+  "mean": 0.5009306074410714,
+  "std_across_images_mean": 0.05672178422688662,
+  "min": 0.14549727737903595,
+  "max": 0.8647564649581909,
+  "eta2_between_class_mean": 0.6711703097103281
+ },
+ "layer4.2.eca": {
+  "channels": 2048,
+  "mean": 0.5012354423437251,
+  "std_across_images_mean": 0.05342941991165485,
+  "min": 0.20023924112319946,
+  "max": 0.7822140455245972,
+  "eta2_between_class_mean": 0.6788566677676626
+ }
+}

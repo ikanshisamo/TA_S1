@@ -1,0 +1,27 @@
+{
+ "variant": "baseline",
+ "seed": 2,
+ "n_params": 23522375,
+ "final": {
+  "loss": 0.08151259273290634,
+  "acc": 0.9681372549019608,
+  "macro_precision": 0.952740266994561,
+  "macro_recall": 0.9639385024087109,
+  "macro_f1": 0.9575282865343201,
+  "brier": 0.04635736368085273,
+  "macro_auc_ovr": 0.9993002176431605
+ },
+ "last10_mean": {
+  "loss": 0.10503752380609513,
+  "acc": 0.969607843137255,
+  "macro_precision": 0.9585495735907262,
+  "macro_recall": 0.9535730380099166,
+  "macro_f1": 0.9552515416514107
+ },
+ "timing": {
+  "train_time_total_s": 1366.5138802528381,
+  "epoch_time_mean_s_excl_first": 13.66532240251098,
+  "wall_time_s": 1551.6167631149292,
+  "peak_mem_mb_max": 1169.28564453125
+ }
+}

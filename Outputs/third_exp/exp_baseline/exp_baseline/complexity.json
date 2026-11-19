@@ -1,0 +1,18 @@
+{
+ "variant": "baseline",
+ "n_params": 23522375,
+ "n_params_trainable": 23522375,
+ "n_eca_modules": 0,
+ "eca_kernel_sizes": {},
+ "macs_conv2d": 4087136256,
+ "macs_conv1d": 0,
+ "macs_linear": 14336,
+ "macs_total": 4087150592,
+ "eca_elementwise_ops": 0,
+ "input_shape": [
+  1,
+  3,
+  224,
+  224
+ ]
+}

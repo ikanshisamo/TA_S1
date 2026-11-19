@@ -1,0 +1,26 @@
+{
+ "variant": "v4_pre_add_l12",
+ "n_params": 23522410,
+ "n_params_trainable": 23522410,
+ "n_eca_modules": 7,
+ "eca_kernel_sizes": {
+  "layer1.0.eca": 5,
+  "layer1.1.eca": 5,
+  "layer1.2.eca": 5,
+  "layer2.0.eca": 5,
+  "layer2.1.eca": 5,
+  "layer2.2.eca": 5,
+  "layer2.3.eca": 5
+ },
+ "macs_conv2d": 4087136256,
+ "macs_conv1d": 14080,
+ "macs_linear": 14336,
+ "macs_total": 4087164672,
+ "eca_elementwise_ops": 8028160,
+ "input_shape": [
+  1,
+  3,
+  224,
+  224
+ ]
+}

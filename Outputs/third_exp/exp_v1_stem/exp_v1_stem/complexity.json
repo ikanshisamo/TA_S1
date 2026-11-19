@@ -1,0 +1,20 @@
+{
+ "variant": "v1_stem",
+ "n_params": 23522378,
+ "n_params_trainable": 23522378,
+ "n_eca_modules": 1,
+ "eca_kernel_sizes": {
+  "eca_stem": 3
+ },
+ "macs_conv2d": 4087136256,
+ "macs_conv1d": 192,
+ "macs_linear": 14336,
+ "macs_total": 4087150784,
+ "eca_elementwise_ops": 1605632,
+ "input_shape": [
+  1,
+  3,
+  224,
+  224
+ ]
+}
